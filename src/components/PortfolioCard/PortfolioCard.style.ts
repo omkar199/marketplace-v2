@@ -4,6 +4,7 @@ export const PortfolioCardContainer = styled.div`
   border-radius: 20px;
   padding: 20px;
   margin-right: 35px;
+  margin-bottom: 35px;
   width: 275px;
   overflow: hidden;
   height: 387px;
