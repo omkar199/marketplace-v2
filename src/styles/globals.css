@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.custom-tooltip {
+    font-size: 12px;
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.custom-tooltip-label {
+    color: #222222;
+}
+
+.custom-tooltip-intro {
+    color: #222222;
+}
